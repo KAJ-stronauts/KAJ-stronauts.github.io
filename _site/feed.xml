@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KAJ-stronauts</title>
+    <description>KAJ-stronauts is an advanced mathematics society at Pine View School for the Gifted located in Osprey, Florida. KAJ-stronauts is run under the tutelage of Dr. Ken A Jukes.
+</description>
+    <link>http://kajstronauts.com//</link>
+    <atom:link href="http://kajstronauts.com//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 29 Sep 2014 20:29:36 -0400</pubDate>
+    <lastBuildDate>Mon, 29 Sep 2014 20:29:36 -0400</lastBuildDate>
+    <generator>Jekyll v2.3.0</generator>
+    
+      <item>
+        <title>Meeting #1: Notes</title>
+        <description>&lt;p&gt;25 September 2014 was the first meeting of the KAJ-stronauts. We set up the club and gave out positions. The positions are as follows&lt;/p&gt;
+
+&lt;h3 id=&quot;official-positions&quot;&gt;Official positions&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;President:&lt;/strong&gt; Zackary Corbett&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Vice President:&lt;/strong&gt; Caleb Proffitt&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Secretary:&lt;/strong&gt; Amanda Healy&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Treasurer:&lt;/strong&gt; Thomas Junker&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Sergeant-at-Arms:&lt;/strong&gt; Ilya Pantyuhin&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Historian:&lt;/strong&gt; Dr. Kenneth Jukes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;unofficial-positions&quot;&gt;Unofficial positions&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Math Pope:&lt;/strong&gt; Mimi Faulhaber&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If anyone does not have a position and desires one, they may apply for one by &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#122;&amp;#097;&amp;#099;&amp;#107;&amp;#097;&amp;#114;&amp;#121;&amp;#064;&amp;#099;&amp;#111;&amp;#114;&amp;#098;&amp;#101;&amp;#116;&amp;#116;&amp;#046;&amp;#105;&amp;#109;&quot;&gt;emailing the president&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We also discusses what we want to do as a function of the club:&lt;/p&gt;
+
+&lt;h3 id=&quot;what-we-want-to-do-in-this-club&quot;&gt;What we want to do in this club&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Make a special simple harmonic motion machine using inwardly rotating wheels and a bar&lt;/li&gt;
+  &lt;li&gt;Work on an academic paper about the differences between US and UK mathematics programs&lt;/li&gt;
+  &lt;li&gt;Work on the &lt;a href=&quot;https://en.wikipedia.org/wiki/Twin_prime&quot;&gt;twin primes&lt;/a&gt; problem&lt;/li&gt;
+  &lt;li&gt;Work on logic puzzles such as the Devil’s Chessboard&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+  &lt;li&gt;Have a booth at the Pine View Fair
+    &lt;ul&gt;
+      &lt;li&gt;Have students compete in math competitions to win stuff, show stats real time; in conjunction with programming club, have Wikipedia races.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Solve the advanced calculus problems that Skipper skips solving in Physics C&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;what-well-do-next-meeting&quot;&gt;What we’ll do next meeting&lt;/h3&gt;
+
+&lt;p&gt;Next meeting will be focused on getting ready for the Pine View Fair, a preliminary look at the twin primes problems, and, if there is time, a preliminary look at the simple harmonic motion machine.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;&lt;strong&gt;Rules:&lt;/strong&gt; You, your friend, and the Devil play a game. You and the Devil are in the room with a 8x8 chess board with  tokens on it, one on each square. Meanwhile, your friend is outside of the room. The token can either be on an up position or a down position, and the difference in position is distinguishable to the eye. The Devil mixes up the positions (up or down) of the tokens on the board and chooses one of the 64 squares and calls it the magic square. Next, you may choose one token on a square and flip its position. Then, your friend comes in and must guess what the magic square was by looking on the squares on the board. Show that there is a winning strategy such that your friend can always know what square the magic square is &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 25 Sep 2014 14:31:59 -0400</pubDate>
+        <link>http://kajstronauts.com//notes/2014/09/25/Meeting-notes-25-September-2014.html</link>
+        <guid isPermaLink="true">http://kajstronauts.com//notes/2014/09/25/Meeting-notes-25-September-2014.html</guid>
+        
+        
+        <category>notes</category>
+        
+      </item>
+    
+  </channel>
+</rss>
