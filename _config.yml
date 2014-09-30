@@ -1,6 +1,5 @@
 # Site settings
 title: KAJ-stronauts
-email: zackary@corbett.im
 description: > # this means to ignore newlines until "baseurl:"
     KAJ-stronauts is an advanced mathematics society at Pine View School for the Gifted located in Osprey, Florida. KAJ-stronauts is run under the tutelage of Dr. Ken A Jukes and meets every Thursday at 1pm in Dr. Jukes' room, mlc12.
 baseurl: ""
