@@ -8,23 +8,24 @@ categories: notes
 
 ### Official positions
 
+* **Sponsor:** Dr. Ken A Jukes
 * **President:** Zackary Corbett
 * **Vice President:** Caleb Proffitt
 * **Secretary:** Amanda Healy
 * **Treasurer:** Thomas Junker
 * **Sergeant-at-Arms:** Ilya Pantyuhin
-* **Historian:** Dr. Kenneth Jukes
+* **Historian:** Dr. Ken A Jukes
 
 ### Unofficial positions
 
-* **Math Pope:** Mimi Faulhaber
+* **Maths Pope:** Mimi Faulhaber
 
 If anyone does not have a position and desires one, they may apply for one by [emailing the president](mailto:zackary@corbett.im).
 
 
 We also discusses what we want to do as a function of the club:
 
-### What we want to do in this club
+## What we want to do in this club
 
 * Make a special simple harmonic motion machine using inwardly rotating wheels and a bar
 * Work on an academic paper about the differences between US and UK mathematics programs
@@ -35,7 +36,7 @@ We also discusses what we want to do as a function of the club:
 * Solve the advanced calculus problems that Skipper skips solving in Physics C
 
 
-### What we'll do next meeting
+## What we'll do next meeting
 
 Next meeting will be focused on getting ready for the Pine View Fair, a preliminary look at the twin primes problems, and, if there is time, a preliminary look at the simple harmonic motion machine.
 
