@@ -14,7 +14,7 @@ Caleb and Zackary will be there all day. Timothy and Tristan will show up as the
 * **10:30–11:** 
 * **11–12:**
 * **12–1:** Dr. Jukes
-* **1–2:**Dr. Jukes
+* **1–2:** Dr. Jukes
 * **2–3:** Mimi Faulhaber
 * **3–4:30:**
 
