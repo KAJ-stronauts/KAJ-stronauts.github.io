@@ -2,6 +2,7 @@
 layout: post
 title:  "Meeting #3: Notes"
 date:   2014-10-09 14:26:29
+author: zackary_corbett
 categories: notes
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title:  "Meeting #1: Notes"
 date:   2014-09-25 18:31:59
+author: zackary_corbett
 categories: notes
 ---
 25 September 2014 was the first meeting of the KAJ-stronauts. We set up the club and gave out positions. The positions are as follows

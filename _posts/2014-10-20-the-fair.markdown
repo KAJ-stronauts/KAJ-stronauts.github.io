@@ -2,6 +2,7 @@
 layout: post
 title:  "The Fair"
 date:   2014-10-20 9:47:00
+author: zackary_corbett
 categories: notes
 ---
 
