@@ -3,7 +3,7 @@ layout: post
 title:  "The Fair"
 date:   2014-10-20 9:47:00
 author: zackary_corbett
-categories: notes
+categories: announcements
 ---
 
 So, the Pine View Fair was last Saturday. Overall, the joint booth between KAJ-stronauts and Programming Club did phenomenally. Between the math quizzes and Dr. Juke's fantastic math tricks, we raised an estimated $55. Unless anyone has an idea of what to do with that money, we'll probably put it toward food.
