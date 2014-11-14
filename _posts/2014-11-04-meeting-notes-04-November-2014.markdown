@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Meeting #7: Notes"
-date:   2014-10-30 18:20:00
+date:   2014-11-04 18:20:00
 author: zackary_corbett
 categories: notes
 ---
