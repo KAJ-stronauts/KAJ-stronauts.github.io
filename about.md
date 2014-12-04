@@ -10,4 +10,4 @@ We meet every Thursday at 1pm in Dr. Jukes' room, mobile learning cottage 12.
 
 This year, we hope to work on exciting problems in advanced mathematics like the twin primes problem, as well as build nifty apparatus to demonstrate interesting phenomena.
 
-![KAJ-stronauts](/assets/2014-09/logo.png)
+![KAJ-stronauts](/assets/2014/09/logo.png)
