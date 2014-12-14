@@ -6,7 +6,7 @@ author: zackary_corbett
 categories: notes
 ---
 
-Today we finished up looking at the Devil's Chessboard problem. We learned a decent bit about [parity bits][parity bits] (terrible pun intended). Proffitt generalized a chessboard as an eight-dimensional hypercube because he's cool like that.
+Today, we finished up looking at the Devil's Chessboard problem. We learned a decent bit about [parity bits][parity bits] (terrible pun intended). Proffitt generalized a chessboard as an eight-dimensional hypercube because he's cool like that.
 
 Simultaneously, we worked on building Dr. Juke's simple harmonic motion machine. If you'd like to know more about this project, here's [a link to a *paywalled* paper on it that Dr. Jukes coauthored][oscillating bar].
 
