@@ -6,175 +6,211 @@
 </description>
     <link>http://kajstronauts.com//</link>
     <atom:link href="http://kajstronauts.com//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 25 Oct 2014 11:01:50 -0500</pubDate>
-    <lastBuildDate>Sat, 25 Oct 2014 11:01:50 -0500</lastBuildDate>
+    <pubDate>Sat, 03 Jan 2015 18:38:43 -0500</pubDate>
+    <lastBuildDate>Sat, 03 Jan 2015 18:38:43 -0500</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
+    
+      <item>
+        <title>No Meeting on First Week After Winter Break</title>
+        <description>&lt;p&gt;Hey all, there’s no meeting this week of 5–9 January.&lt;/p&gt;
+
+&lt;p&gt;Due to Moody’s, we’re going to have to move meetings to Mondays until the beginning of March, assuming this works for Dr. Jukes. I’ll keep you all posted as I get confirmation of this.&lt;/p&gt;
+
+&lt;p&gt;Personally, I’m looking forward to Dr. Covert struggling with the pronunciation of &lt;em&gt;KAJ-stronauts&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Oh! Also! We have a new feature: an attendance tracker. Just head over to &lt;a href=&quot;http://kajstronauts.com/attendance/&quot;&gt;kajstronauts.com/attendance&lt;/a&gt; whenever you attend the club and fill the form out. It’ll help me keep things organized.&lt;/p&gt;
+
+&lt;p&gt;Cheers!&lt;/p&gt;
+</description>
+        <pubDate>Sat, 03 Jan 2015 13:30:00 -0500</pubDate>
+        <dc:creator>Zackary Corbett</dc:creator>
+        <link>http://kajstronauts.com//announcements/2015/01/03/no-meeting-on-first-week-after-Winter-Break.html</link>
+        <guid isPermaLink="true">http://kajstronauts.com//announcements/2015/01/03/no-meeting-on-first-week-after-Winter-Break.html</guid>
+        
+        
+        <category>announcements</category>
+        
+      </item>
+    
+      <item>
+        <title>No Meeting on 18 December</title>
+        <description>&lt;p&gt;Hey all, due to the Moody’s meeting being at the same time as KAJ-stronauts, KAJ-stronauts will be canceled for this week. See you after break!&lt;/p&gt;
+</description>
+        <pubDate>Wed, 17 Dec 2014 04:37:00 -0500</pubDate>
+        <dc:creator>Zackary Corbett</dc:creator>
+        <link>http://kajstronauts.com//announcements/2014/12/17/no-meeting-on-18-December.html</link>
+        <guid isPermaLink="true">http://kajstronauts.com//announcements/2014/12/17/no-meeting-on-18-December.html</guid>
+        
+        
+        <category>announcements</category>
+        
+      </item>
+    
+      <item>
+        <title>Meeting #11: Notes</title>
+        <description>&lt;p&gt;Today, we made a lot of progress on the simple harmonic motion machine. I think it’s nearly done, all we need is some batteries and time to give it a test run.&lt;/p&gt;
+
+&lt;p&gt;Next week is the last week before Winter Break, so we might do something wintery. We’ll see. Either way, we’ll be doing math of some sort.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 11 Dec 2014 13:07:00 -0500</pubDate>
+        <dc:creator>Zackary Corbett</dc:creator>
+        <link>http://kajstronauts.com//notes/2014/12/11/meeting-notes-11-December-2014.html</link>
+        <guid isPermaLink="true">http://kajstronauts.com//notes/2014/12/11/meeting-notes-11-December-2014.html</guid>
+        
+        
+        <category>notes</category>
+        
+      </item>
+    
+      <item>
+        <title>Meeting #10: Notes</title>
+        <description>&lt;p&gt;Today, we finished up looking at the Devil’s Chessboard problem. We learned a decent bit about &lt;a href=&quot;https://en.wikipedia.org/wiki/Parity_bit&quot; title=&quot;Parity Bits&quot;&gt;parity bits&lt;/a&gt; (terrible pun intended). Proffitt generalized a chessboard as an eight-dimensional hypercube because he’s cool like that.&lt;/p&gt;
+
+&lt;p&gt;Simultaneously, we worked on building Dr. Juke’s simple harmonic motion machine. If you’d like to know more about this project, here’s &lt;a href=&quot;http://teamat.oxfordjournals.org/content/3/1/30.full.pdf&quot;&gt;a link to a &lt;em&gt;paywalled&lt;/em&gt; paper on it that Dr. Jukes coauthored&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Enjoy this photo of some of the KAJ-stronauts working on the machine.
+&lt;img src=&quot;/assets/2014/12/erector_set.jpg&quot; alt=&quot;Us working on the simple harmonic motion machine&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Lastly, a few of us discussed Moody’s Mega Math Challenge teams.&lt;/p&gt;
+
+&lt;p&gt;By the way, a Pine View alumn and Electronic Arts developer is coming to speak to kids at Pine View tomorrow, Friday, 5 December during eight period in Mr. Goebel’s room. You should come, it’d be cool.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 04 Dec 2014 13:07:00 -0500</pubDate>
+        <dc:creator>Zackary Corbett</dc:creator>
+        <link>http://kajstronauts.com//notes/2014/12/04/meeting-notes-04-December-2014.html</link>
+        <guid isPermaLink="true">http://kajstronauts.com//notes/2014/12/04/meeting-notes-04-December-2014.html</guid>
+        
+        
+        <category>notes</category>
+        
+      </item>
+    
+      <item>
+        <title>Meeting #9: Notes</title>
+        <description>&lt;p&gt;Today, we worked on a whole bunch of puzzles. It was fun. We’re going to pick back up with the Devil’s Chessboard puzzle in the future, maybe next meeting.&lt;/p&gt;
+
+&lt;p&gt;Speaking of next meeting, it’s not going to be next week because of Thanksgiving break. So, we’ll be meeting the week after that at the same time as usual. See you Thursday, 4 December at 1pm.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 20 Nov 2014 09:48:00 -0500</pubDate>
+        <dc:creator>Zackary Corbett</dc:creator>
+        <link>http://kajstronauts.com//notes/2014/11/20/meeting-notes-20-November-2014.html</link>
+        <guid isPermaLink="true">http://kajstronauts.com//notes/2014/11/20/meeting-notes-20-November-2014.html</guid>
+        
+        
+        <category>notes</category>
+        
+      </item>
+    
+      <item>
+        <title>Meeting #8: Notes</title>
+        <description>&lt;p&gt;Today, Dr. Jukes talked to us about his ideas on solving the twin prime problem and explained some really complicated integrals and inequalities.&lt;/p&gt;
+
+&lt;h2 id=&quot;attendance&quot;&gt;Attendance&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;caleb pizza&lt;/li&gt;
+  &lt;li&gt;Luke Grigsby&lt;/li&gt;
+  &lt;li&gt;Timothy Mirnyi&lt;/li&gt;
+  &lt;li&gt;Tristan Lee&lt;/li&gt;
+  &lt;li&gt;Ilya Pantyuhin&lt;/li&gt;
+  &lt;li&gt;Mimi Faulhaber&lt;/li&gt;
+  &lt;li&gt;Alex Sosa&lt;/li&gt;
+  &lt;li&gt;And others&lt;/li&gt;
+  &lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 13 Nov 2014 09:48:00 -0500</pubDate>
+        <dc:creator>Zackary Corbett</dc:creator>
+        <link>http://kajstronauts.com//notes/2014/11/13/meeting-notes-13-November-2014.html</link>
+        <guid isPermaLink="true">http://kajstronauts.com//notes/2014/11/13/meeting-notes-13-November-2014.html</guid>
+        
+        
+        <category>notes</category>
+        
+      </item>
+    
+      <item>
+        <title>Meeting #7: Notes</title>
+        <description>&lt;p&gt;This was our seventh meeting! Seven is a  prime number!&lt;/p&gt;
+
+&lt;p&gt;Today we relaxed and played mathematic hangman until 1:30 whereupon we went to a guest lecture being held at Pine View about quantum mechanics. It was really quite interesting and science-y.&lt;/p&gt;
+
+&lt;h2 id=&quot;next-week&quot;&gt;Next Week&lt;/h2&gt;
+
+&lt;p&gt;We’ll actually start to dig into some real mathematics, as Dr. Jukes is going to talk about twin primes.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 04 Nov 2014 13:20:00 -0500</pubDate>
+        <dc:creator>Zackary Corbett</dc:creator>
+        <link>http://kajstronauts.com//notes/2014/11/04/meeting-notes-04-November-2014.html</link>
+        <guid isPermaLink="true">http://kajstronauts.com//notes/2014/11/04/meeting-notes-04-November-2014.html</guid>
+        
+        
+        <category>notes</category>
+        
+      </item>
+    
+      <item>
+        <title>Email Group</title>
+        <description>&lt;p&gt;Hey all,&lt;/p&gt;
+
+&lt;p&gt;I just set up an email group for the club. Feel free to join it &lt;a href=&quot;https://groups.google.com/forum/#!forum/kaj-stronauts&quot;&gt;here&lt;/a&gt;. I’m not sure how much use it’ll get, though.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 02 Nov 2014 11:41:00 -0500</pubDate>
+        <dc:creator>Zackary Corbett</dc:creator>
+        <link>http://kajstronauts.com//announcements/2014/11/02/email-group.html</link>
+        <guid isPermaLink="true">http://kajstronauts.com//announcements/2014/11/02/email-group.html</guid>
+        
+        
+        <category>announcements</category>
+        
+      </item>
+    
+      <item>
+        <title>Meeting #6: Notes</title>
+        <description>&lt;p&gt;Today was a pretty lax day.&lt;/p&gt;
+
+&lt;p&gt;We learned that we raised $54.56 at the fair! Yay! We may allocate $10 or so of that to Programming Club for the current project, but  the rest will likely go to the purchase of foodstuff for the club.&lt;/p&gt;
+
+&lt;p&gt;First, Caleb explained the &lt;a href=&quot;https://en.wikipedia.org/wiki/M%C3%B6bius_function&quot;&gt;Möbius function&lt;/a&gt; to the club. Then, he rambled about &lt;a href=&quot;https://en.wikipedia.org/wiki/Suffix_tree&quot; title=&quot;suffix trees&quot;&gt;suffix trees&lt;/a&gt; for a good bit, and then Dr. Jukes opened a discussion about their mathematical implications. As a part of this, we also learned about &lt;a href=&quot;https://en.wikipedia.org/wiki/Big_O_notation&quot; title=&quot;big O notation&quot;&gt;big O notation&lt;/a&gt; and &lt;a href=&quot;https://en.wikipedia.org/wiki/Big_O_notation#Related_asymptotic_notations&quot; title=&quot;notations related to big O&quot;&gt;related notations&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Zackary then opened a somewhat related a discussion about &lt;a href=&quot;https://en.wikipedia.org/wiki/Binary_search_tree&quot; title=&quot;binary search trees&quot;&gt;binary search trees&lt;/a&gt; and methods by which to transform them.&lt;/p&gt;
+
+&lt;h2 id=&quot;next-week&quot;&gt;Next Week&lt;/h2&gt;
+
+&lt;p&gt;Next week, Dr. Jukes plans to tell everyone about the integrals that he and Caleb are working on.&lt;/p&gt;
+
+&lt;h2 id=&quot;in-attendance&quot;&gt;In Attendance&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Shawn Huang&lt;/li&gt;
+  &lt;li&gt;Tristan Lee&lt;/li&gt;
+  &lt;li&gt;Luke Grigsby&lt;/li&gt;
+  &lt;li&gt;Ilya Pantyuhin&lt;/li&gt;
+  &lt;li&gt;Dr. Ken Jukes&lt;/li&gt;
+  &lt;li&gt;Amanda Healy&lt;/li&gt;
+  &lt;li&gt;Zackary Corbett&lt;/li&gt;
+  &lt;li&gt;Timothy Mirnyi&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 30 Oct 2014 14:21:00 -0400</pubDate>
+        <dc:creator>Zackary Corbett</dc:creator>
+        <link>http://kajstronauts.com//notes/2014/10/30/meeting-notes-30-October-2014.html</link>
+        <guid isPermaLink="true">http://kajstronauts.com//notes/2014/10/30/meeting-notes-30-October-2014.html</guid>
+        
+        
+        <category>notes</category>
+        
+      </item>
     
       <item>
         <title>Meeting #5: Notes</title>
         <description>&lt;p&gt;Everyone showed, we talked about math, and Dr. Jukes showed us a model train we’re apparently using for our machine!&lt;/p&gt;
 </description>
-        <pubDate>Thu, 23 Oct 2014 13:33:00 -0500</pubDate>
+        <pubDate>Thu, 23 Oct 2014 14:33:00 -0400</pubDate>
         <dc:creator>Amanda Healy</dc:creator>
         <link>http://kajstronauts.com//notes/2014/10/23/meeting-notes-23-October-2014.html</link>
         <guid isPermaLink="true">http://kajstronauts.com//notes/2014/10/23/meeting-notes-23-October-2014.html</guid>
-        
-        
-        <category>notes</category>
-        
-      </item>
-    
-      <item>
-        <title>The Fair</title>
-        <description>&lt;p&gt;So, the Pine View Fair was last Saturday. Overall, the joint booth between KAJ-stronauts and Programming Club did phenomenally. Between the math quizzes and Dr. Juke’s fantastic math tricks, we raised an estimated $55. Unless anyone has an idea of what to do with that money, we’ll probably put it toward food.&lt;/p&gt;
-
-&lt;p&gt;Thanks to everyone to came and helped. So many of you showed up to help out, it was really fantastic.&lt;/p&gt;
-
-&lt;p&gt;As I said previously, I won’t be at Pine View for the next meeting, but Caleb Proffitt will be leading the meeting, so please still show up. Have fun!&lt;/p&gt;
-</description>
-        <pubDate>Mon, 20 Oct 2014 04:47:00 -0500</pubDate>
-        <dc:creator>Zackary Corbett</dc:creator>
-        <link>http://kajstronauts.com//notes/2014/10/20/the-fair.html</link>
-        <guid isPermaLink="true">http://kajstronauts.com//notes/2014/10/20/the-fair.html</guid>
-        
-        
-        <category>notes</category>
-        
-      </item>
-    
-      <item>
-        <title>Meeting #4: Notes</title>
-        <description>&lt;p&gt;Today, we finalized the tests and had people sign up to work the booth at certain times. Overall, the day was somewhat uneventful.&lt;/p&gt;
-
-&lt;h2 id=&quot;kaj-stronauts-booth-signup&quot;&gt;KAJ-stronauts booth signup&lt;/h2&gt;
-
-&lt;p&gt;Caleb and Zackary will be there all day. Timothy and Tristan will show up as they can.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;10:30–11:&lt;/strong&gt; &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;11–12:&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;12–1:&lt;/strong&gt; Dr. Jukes&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;1–2:&lt;/strong&gt; Dr. Jukes&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;2–3:&lt;/strong&gt; Mimi Faulhaber&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;3–4:30:&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;important-information-about-next-week&quot;&gt;Important information about next week&lt;/h2&gt;
-
-&lt;p&gt;I, Zackary Corbett, will not be there, as I will be visiting Rice University and hanging out with Matthew Dunn-Rankin. Hence, vice president Caleb Proffitt will be running the meeting and talking notes and attendance from it. If you have anything in mind to do next week, please contact him.&lt;/p&gt;
-
-&lt;h2 id=&quot;in-attendance&quot;&gt;In attendance&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Dr. Jukes&lt;/li&gt;
-  &lt;li&gt;Zackary Corbett&lt;/li&gt;
-  &lt;li&gt;Caleb Proffitt&lt;/li&gt;
-  &lt;li&gt;Mimi Faulhaber&lt;/li&gt;
-  &lt;li&gt;Ilya Pantyuhin&lt;/li&gt;
-  &lt;li&gt;Amanda Healy&lt;/li&gt;
-  &lt;li&gt;Tristain Lee&lt;/li&gt;
-  &lt;li&gt;Timothy Mirnyi&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 16 Oct 2014 13:33:00 -0500</pubDate>
-        <dc:creator>Zackary Corbett</dc:creator>
-        <link>http://kajstronauts.com//notes/2014/10/16/meeting-notes-16-October-2014.html</link>
-        <guid isPermaLink="true">http://kajstronauts.com//notes/2014/10/16/meeting-notes-16-October-2014.html</guid>
-        
-        
-        <category>notes</category>
-        
-      </item>
-    
-      <item>
-        <title>Meeting #3: Notes</title>
-        <description>&lt;p&gt;Today, we tried to finalize the tests for the fair and Caleb presented his project for displaying statistics. We’re mostly done with everything. Hopefully, next week we’ll start work on the simple harmonic motion machine.&lt;/p&gt;
-
-&lt;p&gt;Also, we taught some of the members calculus in an absolutely terrible way that defies all the laws of calculus but sort of worked if you didn’t think about it too much. Sorry, Mr. Nezelek.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 09 Oct 2014 09:26:29 -0500</pubDate>
-        <dc:creator>Zackary Corbett</dc:creator>
-        <link>http://kajstronauts.com//notes/2014/10/09/meeting-notes-9-October-2014.html</link>
-        <guid isPermaLink="true">http://kajstronauts.com//notes/2014/10/09/meeting-notes-9-October-2014.html</guid>
-        
-        
-        <category>notes</category>
-        
-      </item>
-    
-      <item>
-        <title>Meeting #2: Notes</title>
-        <description>&lt;p&gt;Today, we worked on our Pine View Fair booth. We started putting together tests for students of different grade levels. Students will take the test in an allotted amount of time and get prizes based on how well above the standard deviation that they do. &lt;a href=&quot;http://monolc.com/PVPClub.html&quot;&gt;Programming Club&lt;/a&gt; will also be using some of our booth space to host Wikipedia races wherein two people compete to get from one Wikipedia page the fastest.&lt;/p&gt;
-
-&lt;p&gt;Hopefully, next meeting we will work some on  the oscillatory motion machine and the twin primes problem.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 02 Oct 2014 09:26:29 -0500</pubDate>
-        <dc:creator>Zackary Corbett</dc:creator>
-        <link>http://kajstronauts.com//notes/2014/10/02/meeting-notes-2-October-2014.html</link>
-        <guid isPermaLink="true">http://kajstronauts.com//notes/2014/10/02/meeting-notes-2-October-2014.html</guid>
-        
-        
-        <category>notes</category>
-        
-      </item>
-    
-      <item>
-        <title>Meeting #1: Notes</title>
-        <description>&lt;p&gt;25 September 2014 was the first meeting of the KAJ-stronauts. We set up the club and gave out positions. The positions are as follows&lt;/p&gt;
-
-&lt;h3 id=&quot;official-positions&quot;&gt;Official positions&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Sponsor:&lt;/strong&gt; Dr. Ken A Jukes&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;President:&lt;/strong&gt; Zackary Corbett&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Vice President:&lt;/strong&gt; Caleb Proffitt&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Secretary:&lt;/strong&gt; Amanda Healy&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Treasurer:&lt;/strong&gt; Thomas Junker&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Sergeant-at-Arms:&lt;/strong&gt; Ilya Pantyuhin&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Historian:&lt;/strong&gt; Dr. Ken A Jukes&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;unofficial-positions&quot;&gt;Unofficial positions&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Maths Pope:&lt;/strong&gt; Mimi Faulhaber&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;If anyone does not have a position and desires one, they may apply for one by &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#122;&amp;#097;&amp;#099;&amp;#107;&amp;#097;&amp;#114;&amp;#121;&amp;#064;&amp;#099;&amp;#111;&amp;#114;&amp;#098;&amp;#101;&amp;#116;&amp;#116;&amp;#046;&amp;#105;&amp;#109;&quot;&gt;emailing the president&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;We also discusses what we want to do as a function of the club:&lt;/p&gt;
-
-&lt;h2 id=&quot;what-we-want-to-do-in-this-club&quot;&gt;What we want to do in this club&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Make a special simple harmonic motion machine using inwardly rotating wheels and a bar&lt;/li&gt;
-  &lt;li&gt;Work on an academic paper about the differences between US and UK mathematics programs&lt;/li&gt;
-  &lt;li&gt;Work on the &lt;a href=&quot;https://en.wikipedia.org/wiki/Twin_prime&quot;&gt;twin primes&lt;/a&gt; problem&lt;/li&gt;
-  &lt;li&gt;Work on logic puzzles such as the Devil’s Chessboard&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
-  &lt;li&gt;Have a booth at the Pine View Fair
-    &lt;ul&gt;
-      &lt;li&gt;Have students compete in math competitions to win stuff, show stats real time; in conjunction with programming club, have Wikipedia races.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Solve the advanced calculus problems that Skipper skips solving in Physics C&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;what-well-do-next-meeting&quot;&gt;What we’ll do next meeting&lt;/h2&gt;
-
-&lt;p&gt;Next meeting will be focused on getting ready for the Pine View Fair, a preliminary look at the twin primes problems, and, if there is time, a preliminary look at the simple harmonic motion machine.&lt;/p&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;&lt;strong&gt;Rules:&lt;/strong&gt; You, your friend, and the Devil play a game. You and the Devil are in the room with a 8x8 chess board with  tokens on it, one on each square. Meanwhile, your friend is outside of the room. The token can either be on an up position or a down position, and the difference in position is distinguishable to the eye. The Devil mixes up the positions (up or down) of the tokens on the board and chooses one of the 64 squares and calls it the magic square. Next, you may choose one token on a square and flip its position. Then, your friend comes in and must guess what the magic square was by looking on the squares on the board. Show that there is a winning strategy such that your friend can always know what square the magic square is &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Thu, 25 Sep 2014 13:31:59 -0500</pubDate>
-        <dc:creator>Zackary Corbett</dc:creator>
-        <link>http://kajstronauts.com//notes/2014/09/25/meeting-notes-25-September-2014.html</link>
-        <guid isPermaLink="true">http://kajstronauts.com//notes/2014/09/25/meeting-notes-25-September-2014.html</guid>
         
         
         <category>notes</category>
