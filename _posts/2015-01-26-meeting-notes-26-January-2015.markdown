@@ -32,6 +32,17 @@ Today, we worked on the creating and solving the differential equation that desc
 ![panorama](/assets/2015/01/pano.jpg)
 
 
+#### Some inspirational art
+
+![art](/assets/2015/01/art.jpg)
+
+
 #### Caleb's totally illegitimate (and invalid) proof that 3 = 2
 
 ![3 = 2 Q.E.D.](/assets/2015/01/3equals2.jpg)
+
+
+
+#### Then the art got weird…
+
+![weird art](/assets/2015/01/art_weird.jpg)
