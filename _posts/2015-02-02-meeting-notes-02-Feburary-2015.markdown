@@ -22,7 +22,7 @@ Today we started rebuilding the simple harmonic motion machine to have a more op
 
 #### A satirization of the math used in AP Micro
 
-![AP Micro, bad math](/assets/2015/02/ap_micro.jpeg)
+![AP Micro, bad math](/assets/2015/02/ap_micro_fixed.jpeg)
 
 
 #### Mimi being swag, Fargo being authoritative
