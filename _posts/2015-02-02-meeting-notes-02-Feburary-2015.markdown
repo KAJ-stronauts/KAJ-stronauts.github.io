@@ -17,12 +17,12 @@ Today we started rebuilding the simple harmonic motion machine to have a more op
 
 #### Proffitt's Schema
 
-![Proffitt's Schema](/assets/2015/02/proffitts_schema.jpg)
+![Proffitt's Schema](/assets/2015/02/proffitts_schema.jpeg)
 
 
 #### A satirization of the math used in AP Micro
 
-![AP Micro, bad math](/assets/2015/02/ap_micro.jpg)
+![AP Micro, bad math](/assets/2015/02/ap_micro.jpeg)
 
 
 #### Mimi being swag, Fargo being authoritative
