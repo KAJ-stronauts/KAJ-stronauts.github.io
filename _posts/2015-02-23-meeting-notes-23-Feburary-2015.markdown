@@ -9,3 +9,5 @@ categories: notes
 Today, attendance was surprisingly low — there was even part of a doughnut left over; we only had five members total show up. Ilya, Dr. Jukes, and I worked on finishing the second revision of the simple harmonic motion machine. That was about it.
 
 Maybe next week, Shawn, Mimi, and I will work on proofing Thomas' differential equation for the simple harmonic motion machine.
+
+Oh, also, now that we're almost done with this machine, we need to figure out on what we want to work next. Give me your ideas, please, if you have any.
