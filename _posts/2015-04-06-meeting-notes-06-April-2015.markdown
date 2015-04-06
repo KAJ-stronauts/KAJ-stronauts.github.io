@@ -10,7 +10,7 @@ Today, Dr. Jukes gave us the task of trying to prove the [cosine rule][] using t
 
 ## Non-geometric Proof of the Cosine Rule by Dr. Kenneth A Jukes
 
-I wondered whether it was possible to prove the cosine rule, $a^2 = b^2 + c^2 – 2bc\cos{A}$, directly from the sine rule $\frac{a}{sinA} = \frac{b}{sinB} =\frac{c}{sinC}$ It is possible, the proof being more complicated than the geometric proof of the cosine rule in that it uses the table of trig identities.
+I wondered whether it was possible to prove the cosine rule, \$a^2 = b^2 + c^2 – 2bc\cos{A}\$, directly from the sine rule $\frac{a}{sinA} = \frac{b}{sinB} =\frac{c}{sinC}$ It is possible, the proof being more complicated than the geometric proof of the cosine rule in that it uses the table of trig identities.
 
 We have $b = \frac{sinB}{sinA}a$ and $c = \frac{sinC}{sinA}a$. Hence
 
