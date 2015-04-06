@@ -7,4 +7,4 @@ url: "http://kajstronauts.com/" # the base hostname & protocol for your site
 github_username:  KAJ-stronauts
 
 # Build settings
-markdown: kramdown
+markdown: discount
