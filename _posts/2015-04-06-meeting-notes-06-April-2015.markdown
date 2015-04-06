@@ -28,9 +28,9 @@ $$\sin^2B+\sin^2C-2\sin{B}\sin{C}\cos{A} = \sin^2B+\sin^2C+2\sin{B}\sin{C}(\cos{
 
 $$\ldots$$
 
-$$(\sin{B}\cos{C} + \sin{C}\cos{B})^2$$
+$$= (\sin{B}\cos{C} + \sin{C}\cos{B})^2$$
 
-$$(\sin(B+C))^2={(\sin(180-(B+C)))^2}=\sin^2A$$
+$$= (\sin(B+C))^2={(\sin(180-(B+C)))^2}=\sin^2A$$
 
 $$b^2 + c^2 -2bc\cos{A} =\frac{a^2}{\sin^2A}\sin^2A = a^2$$
 
