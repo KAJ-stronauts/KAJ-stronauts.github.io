@@ -8,7 +8,7 @@ categories: notes
 
 Today was a pretty lax day.
 
-We learned that we raised &#36;54.56 at the fair! Yay! We may allocate &#36;10 or so of that to Programming Club for the current project, but  the rest will likely go to the purchase of foodstuff for the club.
+We learned that we raised $​54.56 at the fair! Yay! We may allocate $​10 or so of that to Programming Club for the current project, but  the rest will likely go to the purchase of foodstuff for the club.
 
 First, Caleb explained the [Möbius function][Möbius] to the club. Then, he rambled about [suffix trees][suffixTrees] for a good bit, and then Dr. Jukes opened a discussion about their mathematical implications. As a part of this, we also learned about [big O notation][bigO] and [related notations][relatedToBigO].
 
