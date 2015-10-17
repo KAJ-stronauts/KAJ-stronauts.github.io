@@ -2,8 +2,7 @@
 title: KAJ-stronauts
 description: > # this means to ignore newlines until "baseurl:"
     KAJ-stronauts is an advanced mathematics society at Pine View School for the Gifted located in Osprey, Florida. KAJ-stronauts is run under the tutelage of Dr. Ken A Jukes and meets every Thursday at 1pm in Dr. Jukes' room, mlc12.
-baseurl: ""
-url: "http://kajstronauts.com/" # the base hostname & protocol for your site
+baseurl: "http://kaj-stronauts.github.io/"
 github_username:  KAJ-stronauts
 
 # Build settings
