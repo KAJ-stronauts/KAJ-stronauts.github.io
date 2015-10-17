@@ -1,4 +1,3 @@
-# KAJstronauts.com
+# KAJ-stronauts.github.io
 
-
-The KAJ-stronauts website. It's pretty blah now, I'll make it nicer later.
+The old KAJ-stronauts website. Sadly, the club is now defunct with the retirement of Dr. Ken A Jukes. Best of luck, Dr. Jukes.
